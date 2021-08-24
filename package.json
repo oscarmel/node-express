@@ -1,0 +1,23 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "A Node.js and Express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarmel/node-express.git"
+  },
+  "author": "Oscar Mel Domingo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscarmel/node-express/issues"
+  },
+  "homepage": "https://github.com/oscarmel/node-express#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
